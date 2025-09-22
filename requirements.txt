@@ -1,0 +1,8 @@
+openai-whisper
+openai
+sounddevice
+pyaudio
+pyautogui
+pygetwindow
+opencv-python
+numpy
